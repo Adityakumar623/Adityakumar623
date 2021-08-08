@@ -1,3 +1,5 @@
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theinspiringjournal.com%2F82-motivational-quotes-for-students%2F&psig=AOvVaw0s0AEBYeHbgn6ALCNkKb2Z&ust=1628493778649000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiEmpzyoPICFQAAAAAdAAAAABAN">
+
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
